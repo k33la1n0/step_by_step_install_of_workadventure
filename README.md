@@ -53,7 +53,7 @@ how to install jitsi on ubuntu 18.04:
 ### 1. 5. 6 merge the data from the installation of the TURN-server and jitsi into the env.prod.template-file (for a remote installation)
 * `JITSI_URL=meet.remote`
 * `JITSI_PRIVATE_MODE=true`
-* `JITSI_ISS=SECRET_JITSI_KEY= remote.meet.key` (mybe you must transfer your key on the wa-server)
+* `JITSI_ISS=SECRET_JITSI_KEY= remote.meet.key` (mybe you must transfer your key to the wa-server)
 * `TURN_SERVER= turn.remote`
 * `TURN_USER= remoteuser`
 * `TURN_PASSWORD= remotepassword`
@@ -75,7 +75,7 @@ when you want use a apache2 webserver with tls over certbot
 * `apt install certbot python-certbot-apache`
 
 
-### 1. 10 switch in the directory from workadventure for docker-compose (installation):
+### 1. 10 switch in the directory from workadventure for docker-compose (e. g. /home/workadventure):
 * `docker-compose -f docker-compose.prod.yaml up -d`
 
 
