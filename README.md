@@ -5,7 +5,7 @@ https://pad.riseup.net/p/step_by_step_prod
 this is an attempt to gather points for a step by step installation for a prod. env.
 feel free to add your points!!!!!!!11!1
 
-###1.0 installation on debian(based):
+### 1.0 installation on debian(based):
 * apt update & apt upgrade
 * apt install git curl wget ufw 
 * apt install docker docker-compose
