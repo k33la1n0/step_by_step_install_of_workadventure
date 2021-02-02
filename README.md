@@ -17,7 +17,7 @@ feel free to add your points!!!!!!!11!1
 * git clone -b fix/deploy-cleanup --single-branch https://github.com/thecodingmachine/workadventure.git
 
 ### 1.3 creating own docker-compose.pord.yml:
-where i find a prod. docker-compose.prod.yml example? Note:
+where i find a docker-compose.prod.yml example? Note:
 * https://github.com/thecodingmachine/workadventure/blob/fix/deploy-cleanup/docker-compose.prod.yaml
 
 
