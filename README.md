@@ -17,23 +17,23 @@ feel free to add your points!!!!!!!11!1
 * git clone -b fix/deploy-cleanup --single-branch https://github.com/thecodingmachine/workadventure.git
 
 ### 1.3 creating own docker-compose.pord.yml:
-`where i find a prod. docker-compose.prod.yml example? Note:`
+where i find a prod. docker-compose.prod.yml example? Note:
 * https://github.com/thecodingmachine/workadventure/blob/fix/deploy-cleanup/docker-compose.prod.yaml
 
 
 ### 1. 4 create own .env.prod.template:
-`where i find a .env.prod.template example? Note:`
+where i find a .env.prod.template example? Note:
 * https://github.com/thecodingmachine/workadventure/blob/fix/deploy-cleanup/.env.prod.template
 
 
 ### 1. 5 set your own Jitsi and TURN server
 
 ### 1. 5. 1 install a localTURN-server:
-`a how to install a TURN-server on ubuntu 18.04:`
+a how to install a TURN-server on ubuntu 18.04:
 * https://ourcodeworld.com/articles/read/1175/how-to-create-and-configure-your-own-stun-turn-server-with-coturn-in-ubuntu-18-04
 
 ### 1. 5. 2 install a local jitsi:
-`how to install jitsi on ubuntu 18.04:`
+how to install jitsi on ubuntu 18.04:
 * https://www.digitalocean.com/community/tutorials/how-to-install-jitsi-meet-on-ubuntu-18-04
 
 ### 1. 5. 3 use a remote TURN-server:
