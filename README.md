@@ -42,7 +42,7 @@ how to install jitsi on ubuntu 18.04:
 ### 1. 5. 4 use a remote jitsi:
 
 
-### 1. 5. 5 merge the data from the installation of the TURN-server and jitsi into the env.prod.templatefile (for a local installation)
+### 1. 5. 5 merge the data from the installation of the TURN-server and jitsi into the env.prod.template-file (for a local installation)
 * `JITSI_URL=meet.localhost`
 * `JITSI_PRIVATE_MODE=true`
 * `JITSI_ISS=SECRET_JITSI_KEY= localhost.meet.key`
@@ -50,7 +50,7 @@ how to install jitsi on ubuntu 18.04:
 * `TURN_USER= localuser`
 * `TURN_PASSWORD= localpassword`
 
-### 1. 5. 6 merge the data from the installation of the TURN-server and jitsi into the env.prod.templatefile (for a remote installation)
+### 1. 5. 6 merge the data from the installation of the TURN-server and jitsi into the env.prod.template-file (for a remote installation)
 * `JITSI_URL=meet.remote`
 * `JITSI_PRIVATE_MODE=true`
 * `JITSI_ISS=SECRET_JITSI_KEY= remote.meet.key` (mybe you must transfer your key on the wa-server)
