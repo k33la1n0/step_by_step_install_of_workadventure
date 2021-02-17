@@ -14,7 +14,7 @@ feel free to add your points!!!!!!!11!1
 * e.g. /home/$user/
 
 ### 1.2 download workadventure:
-* git clone -b fix/deploy-cleanup --single-branch https://github.com/thecodingmachine/workadventure.git
+* git clone -b master --single-branch https://github.com/thecodingmachine/workadventure/tree/master
 
 ### 1.3 create own docker-compose.pord.yml:
 where i find a docker-compose.prod.yml example? Note:
