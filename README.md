@@ -16,7 +16,7 @@ apt install git wget ufw docker docker-compose
 ### 1.1 Choose the best directory:
 * e.g. /home/$user/
 
-### 1.2 download workadventure:
+### 1.2 Clone workadventure form Github:
 * git clone -b master --single-branch https://github.com/thecodingmachine/workadventure/tree/master
 
 ### 1.3 Create own docker-compose.pord.yml:
